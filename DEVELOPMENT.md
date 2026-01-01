@@ -4,6 +4,8 @@
 
 - v1
     - create gui design draft
+    - add samples git submodule:
+        - https://github.com/royyandzakiy/qt-logsfilter-gui
     - implement base qml-gui project
     - add functioning keypad buttons
     - add logs area (still with dummy logs)
