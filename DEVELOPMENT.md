@@ -2,23 +2,21 @@
 
 ### Sprint
 
-- Base
-    - implement base qml-gui project
+- v1
     - create gui design draft
-    - add keypad buttons
-        - read button inputs
-    - add logs area & dummy logs (added artifically)
-    - success generate new logs as multithread
-- Bluetooth
-    - add winrt via vcpkg
-    - implement simple ble
-    - restructure codebase
+    - implement base qml-gui project
+    - add functioning keypad buttons
+    - add logs area (still with dummy logs)
+        - logs can be added dynamically (+ multithreaded)
+- v2
+    - implement ble uart
+        - add winrt via vcpkg
     - implement ble funcs: scan, connect, notify, send, show rssi
-        - test ble notify with dummy esp32
-        - test ble send to dummy esp32
+- v3
     - connect keypad input with ble send
     - connect notify with logs
-    - add unit tests using pytest
+- v4
+    - add unit tests using gtest & pytest
 
 ---
 
