@@ -19,6 +19,7 @@
     - connect notify with logs
 - v4
     - add unit tests using gtest & pytest
+    - consider refactor using [QML Modules](https://www.youtube.com/watch?v=gzoWIJQDA1c&list=PLJFB6-PFBLVMO0-f3H5KyLbFJ2i1Nkn3a&index=7&t=23456s) dan [QML Views & QAbstract](https://www.youtube.com/watch?v=gzoWIJQDA1c&list=PLJFB6-PFBLVMO0-f3H5KyLbFJ2i1Nkn3a&index=7&t=23456s)
 
 ---
 
